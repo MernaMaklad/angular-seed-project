@@ -1,4 +1,4 @@
-![](.\src\assets\my-imgs\logo.jpg)
+![](src/assets/my-imgs/logo.jpg)
 # Project Title
 
 Sprint 1
