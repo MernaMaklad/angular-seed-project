@@ -1,16 +1,43 @@
-# angular-seed-project
-A starter Angular 5 frontend template using ng-bootstrap(a native Angular implementation of Bootstrap 4, with no jQuery usage) and Nebular framework. 
+![](.\src\assets\my-imgs\logo.jpg)
+# Project Title
 
-## Technology:
+Sprint 1
 
-* [Angular](https://angular.io)
-* [ng-bootstrap](https://ng-bootstrap.github.io)
-* [Nebular](https://akveo.github.io/nebular/#/docs/getting-started/what-is-nebular)
+## Getting Started
 
-## How to run?
+This repo contains details about each team member.
 
-1. Clone the repo.
-2. npm install
-3. ng serve
 
-&#9400; Omar Doma 2018
+## Authors
+
+| Name         | ID      |
+| ------------ | ------- |
+| Hadeel Abbas | 31-5586 |
+| Youstina Melek | 31-2363 |
+| Merna Maklad | 31-3000 |
+| Amr Attia | 31-12272 |
+| Nagham Asharf | 31-1058 |
+| Ahmed Ashour | 31-7631 |
+| Zyad Zakria | 31-0935 |
+| Omar Ehab | 31-5003 |
+| Mary Hany | 31-2403 |
+| Monica Bassem | 31-1542 |
+| Sandra Sameh | 31-0657 |
+
+
+
+## About
+
+* **Merna Yasser** - Reading, cooking, riding bikes.
+* **Sandra Sameh**- Like watching friends, gym, talking with people.
+* **Mary Hany**- Cooking and meeting new people.
+* **Monica Bassem**- scout leader, cultures explorer.
+* **Youstina Melek** - Long walks, art and dogs.
+* **Hadeel Abbas** - Like watching Anime and Asian dramas
+* **Nagham Ashraf** - Cross fit athlete.
+* **Amr Attia**- 31-12272 - Attia Sarcasm (Arwash Wa7ed fel tut)
+* **Omar shalaby**- Conscious observing being.
+* **Ahmed Ashour** 31-7631 - Elnazer
+* **Zyad Zakaria**- Favourite food: macarona bashamel, hunger games fan (The mockingjay) .
+
+wa shokran :bowtie:
