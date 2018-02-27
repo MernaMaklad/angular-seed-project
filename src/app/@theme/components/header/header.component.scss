@@ -103,6 +103,9 @@
   }
 
   @include media-breakpoint-down(xs) {
+    .header-logo{
+      height: 70px;
+    }
     .header-container {
       .logo {
         font-size: 1rem;
